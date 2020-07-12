@@ -18,18 +18,19 @@ layout: default
 Email: hirakata [at] kde.cs.tsukuba.ac.jp
 
 <ul class="social">
-    {% if site.github %}
-    <a type="button" href="http://github.com/{{ site.github }}">
-        <i class="fa fa-github"></i>
-    {% endif %}
-    </ul>
+  {% if site.github %}
+  <a type="button" href="http://github.com/{{ site.github }}">
+    <i class="fa fa-github"></i>
+  </a>
+  {% endif %}
+</ul>
 
 ## Research Interest {#research}
 
 グラフデータベースへの問合せ処理高速化に関する研究をしております．
 * keyword
-    * GDB
-    * RDF
+  * GDB
+  * RDF
 
 ## Publications {#publications}
 * クエリログの部分的利用を考慮したグラフの集約演算高速化 第12回データ工学と情報マネジメントに関するフォーラム. DEIM Forum 2020 C3-4. p.1-5
