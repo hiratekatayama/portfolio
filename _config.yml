@@ -25,27 +25,26 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "About Me"
+    href:           "#aboutme"
+  - name:           "Research Interest"
+    href:           "#research"
+  - name:           "Publications"
+    href:           "#publications"
+  - name:           "Awards"
+    href:           "#awards"
+  - name:           "Personal Interest"
+    href:           "#personal"
+  - name:           "Experience"
+    href:           "#experience"
+  - name:           "Education"
+    href:           "#education"
+  - name:           "License"
+    href:           "#licenses"
+  - name:           "Club Activity"
+    href:           "#club"
+  - name:           "Hobby"
+    href:           "#hobby"
 
 sass:
   style:            :compressed
-
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
-
-gems:
-  - jekyll-paginate
