@@ -39,9 +39,7 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 
 ## Competition・Hackathon {#competitionhackathon} 
 * 統計的因果推論を用いた地方の課題解決の提案 SAS Forum Japan 2019
-
 * 富山県における就職の魅力度向上と定住化促進計画 第2回和歌山県データ利活用コンペティション
-
 * クリック率向上を目指したクエリ内の略語展開による検索補助法 WebDB Forum DBSJ Data Challenge 2018
 
 ## Awards {#awards}
@@ -57,12 +55,8 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 
 ## Education {#education}
 * 2016-04 同志社大学文化情報学部入学
-
-* 2018-04 同志社大学 波多野研究室配属
-
-* <a class="text-link" href="https://www.cis.doshisha.ac.jp/course/foundationaldata/student/
+* 2018-04 同志社大学 波多野研究室配属 <a class="text-link" href="https://www.cis.doshisha.ac.jp/course/foundationaldata/student/
 ">同志社大学データ科学基盤コース 平方さんと文化情報学部 ～学生インタビュー～</a>
-
 * 2020-04 筑波大学大学院理工情報生命学術院システム情報学研究群理工情報学位プログラム入学 北川・天笠データ工学研究室配属
 
 ## Hobby {#hobby}
