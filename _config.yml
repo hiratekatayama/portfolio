@@ -1,1 +1,51 @@
-theme: jekyll-theme-minimal
+name:               "Toshiyuki Hirakata"
+description:        "portfolio of toshiyuki hirakata"
+
+url:                ""
+author:             "Toshiyuki Hirakata"
+email:              "hirakata@kde.cs.tsukuba.ac.jp"
+gravatar_hash:      ""
+twitter:            ""
+email:              ""
+github:             "hiratekatayama"
+pinterest:          ""
+linkedin:           ""
+facebook:           ""
+
+disqus_shortname:   "thinker3197"
+
+#background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+
+#paginate:           5
+#paginate_path:      "/page:num/"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "About"
+    href:           "/about"
+  - name:           "Download"
+    href:           "/releases"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-paginate
