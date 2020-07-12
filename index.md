@@ -11,7 +11,7 @@ layout: default
 
 ## About Me {#aboutme}
 筑波大学大学院理工情報生命学術院システム情報学研究群理工情報学位プログラム
-<a class="text-link" href="http://kde.cs.tsukuba.ac.jp">北川・天笠データ工学研究室</a>
+<a class="text-link" href="http://kde.cs.tsukuba.ac.jp">北川・天笠データ工学研究室</a> 所属
 
 平方 俊行 (Toshiyuki Hirakata)
 
