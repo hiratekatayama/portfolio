@@ -50,8 +50,8 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 グラフデータベースやRDBMSへの問合せ処理高速化に関心があります．
 
 ## Experience {#experience}
-* 2019SAS Institute Japan
-* SMS 株式会社
+* 2019-03~06 SAS Institute Japan
+* 2020-05~ SMS 株式会社
 
 ## Education {#education}
 * 2016-04 同志社大学文化情報学部入学
