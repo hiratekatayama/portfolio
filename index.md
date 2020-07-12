@@ -37,21 +37,27 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 * 平方 俊行，楠 和馬，波多野賢治. "クエリログの部分的利用を考慮したグラフの集約演算高速化" 第12回データ工学と情報マネジメントに関するフォーラム. DEIM Forum 2020 C3-4. p.1-5
 * 八島 裕史，平方 俊行，草野 彰吾，笹田 大翔. "統計的因果推論を用いた地方の課題解決の提案". SAS Forum Japan 2019
 
-## Competition・Hackathon {#competitionhackathon} 
+## Competitions {#competitionhackathon} 
 データ分析に関するコンペにいくつか参加しています．
 * "富山県における就職の魅力度向上と定住化促進計画". 第2回和歌山県データ利活用コンペティション
 * "クリック率向上を目指したクエリ内の略語展開による検索補助法". WebDB Forum DBSJ Data Challenge 2018
 
 ## Awards {#awards}
+データ解析コンペでいくつか賞を頂きました．
 * "リクルートテクノロジーズ賞". WebDB Forum DBSJ Data Challenge 2018
 * "SAS賞". 第2回和歌山県データ利活用コンペティション
 
 ## Personal Interest {#personal}
-グラフデータベースやRDBMSへの問合せ処理高速化に関心があります．
+グラフデータベースやRDBMSへの問合せ処理高速化に関心があります．また最近は，グラフデータに対するデータマイニングにも興味があります．
 
-## Experience {#experience}
-* 2019-03~06 SAS Institute Japan
-* 2020-05~ SMS 株式会社
+## Experiences {#experience}
+* 2019年3月~6月の期間にInstitute Japanにおいてインターンに参加しました．
+  * 行政データを用いて，行政と共同でU・Iターンを促進する政策提案を行いました．
+
+* 2020年5月から現在の機関でSMS株式会社においてインターンに参加しています．
+  * パフォーマンス予測に関する業務を行いました．
+  * 電子カルテの構造化，分析を行いました．
+
 
 ## Education {#education}
 * 2016-04 同志社大学文化情報学部入学
