@@ -34,8 +34,8 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
   * index
 
 ## Publications {#publications}
-* 平方 俊行，楠 和馬，波多野賢治 "クエリログの部分的利用を考慮したグラフの集約演算高速化" 第12回データ工学と情報マネジメントに関するフォーラム. DEIM Forum 2020 C3-4. p.1-5
-* 八島 裕史，平方 俊行，草野 彰吾，笹田 大翔"統計的因果推論を用いた地方の課題解決の提案" SAS Forum Japan 2019
+* 平方 俊行，楠 和馬，波多野賢治. "クエリログの部分的利用を考慮したグラフの集約演算高速化" 第12回データ工学と情報マネジメントに関するフォーラム. DEIM Forum 2020 C3-4. p.1-5
+* 八島 裕史，平方 俊行，草野 彰吾，笹田 大翔. "統計的因果推論を用いた地方の課題解決の提案". SAS Forum Japan 2019
 
 ## Competition・Hackathon {#competitionhackathon} 
 データ分析に関するコンペにいくつか参加しています．
