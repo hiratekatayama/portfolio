@@ -41,6 +41,8 @@ nav:
     href:           "#education"
   - name:           "License"
     href:           "#licenses"
+  - name:           "Competition・hackathon"
+    href:           "#Competition・hackathon"
   - name:           "Club Activity"
     href:           "#club"
   - name:           "Hobby"
