@@ -37,7 +37,7 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 * クエリログの部分的利用を考慮したグラフの集約演算高速化 第12回データ工学と情報マネジメントに関するフォーラム. DEIM Forum 2020 C3-4. p.1-5
 
 
-## Competition・Hackerson {#competition・hackerson} 
+## Competition・Hackathon {#competition・hackathon} 
 * 統計的因果推論を用いた地方の課題解決の提案 SAS Forum Japan 2019
 
 * 富山県における就職の魅力度向上と定住化促進計画 第2回和歌山県データ利活用コンペティション
