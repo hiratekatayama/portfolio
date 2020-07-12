@@ -12,14 +12,17 @@ layout: default
 ## About Me {#aboutme}
 筑波大学大学院理工情報生命学術院システム情報学研究群理工情報学位プログラム
 <a class="text-link" href="http://kde.cs.tsukuba.ac.jp">北川・天笠データ工学研究室</a>
+
 平方 俊行 (Toshiyuki Hirakata)
+
 Email: hirakata [at] kde.cs.tsukuba.ac.jp
+
 <ul class="social">
     {% if site.github %}
     <a type="button" href="http://github.com/{{ site.github }}">
         <i class="fa fa-github"></i>
     {% endif %}
-</ul>
+    </ul>
 
 ## Research Interest {#research}
 
