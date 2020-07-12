@@ -39,12 +39,12 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 
 ## Competition・Hackathon {#competitionhackathon} 
 データ分析に関するコンペにいくつか参加しています．
-* "富山県における就職の魅力度向上と定住化促進計画" 第2回和歌山県データ利活用コンペティション
-* "クリック率向上を目指したクエリ内の略語展開による検索補助法" WebDB Forum DBSJ Data Challenge 2018
+* "富山県における就職の魅力度向上と定住化促進計画". 第2回和歌山県データ利活用コンペティション
+* "クリック率向上を目指したクエリ内の略語展開による検索補助法". WebDB Forum DBSJ Data Challenge 2018
 
 ## Awards {#awards}
-* "リクルートテクノロジーズ賞" WebDB Forum DBSJ Data Challenge 2018
-* "" 第2回和歌山県データ利活用コンペティション SAS賞
+* "リクルートテクノロジーズ賞". WebDB Forum DBSJ Data Challenge 2018
+* "SAS賞". 第2回和歌山県データ利活用コンペティション
 
 ## Personal Interest {#personal}
 グラフデータベースやRDBMSへの問合せ処理高速化に関心があります．
