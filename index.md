@@ -26,11 +26,12 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 </ul>
 
 ## Research Interest {#research}
-
-グラフデータベースへの問合せ処理高速化に関する研究をしております．
+データ工学，データベースシステム，データマイニングに関する分野に興味・関心があります．
+現在，ソーシャルネットワークを管理するグラフデータベースへの問合せ処理高速化に関する研究をしております．
 * keyword
   * GDB
   * RDF
+  * index
 
 ## Publications {#publications}
 * クエリログの部分的利用を考慮したグラフの集約演算高速化 第12回データ工学と情報マネジメントに関するフォーラム. DEIM Forum 2020 C3-4. p.1-5
