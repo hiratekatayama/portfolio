@@ -11,7 +11,8 @@ layout: default
 
 ## About Me {#aboutme}
 筑波大学大学院理工情報生命学術院システム情報学研究群理工情報学位プログラム
-<a class="text-link" href="http://kde.cs.tsukuba.ac.jp">北川・天笠データ工学研究室</a> 所属
+<a class="text-link" href="http://kde.cs.tsukuba.ac.jp">北川・天笠データ工学研究室</a>
+所属
 
 平方 俊行 (Toshiyuki Hirakata)
 
@@ -27,7 +28,9 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 
 ## Research Interest {#research}
 データ工学，データベースシステム，データマイニングに関する分野に興味・関心があります．
-現在，ソーシャルネットワークを管理するグラフデータベースへの問合せ処理高速化に関する研究をしております．
+
+現在は，ソーシャルネットワークのようなグラフデータを管理するグラフデータベースへの問合せ処理高速化に関する研究をしております．
+
 * keyword
   * GDB
   * RDF
@@ -38,12 +41,14 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 * 八島 裕史，平方 俊行，草野 彰吾，笹田 大翔. "統計的因果推論を用いた地方の課題解決の提案". SAS Forum Japan 2019
 
 ## Competitions {#competitionhackathon} 
-データ分析に関するコンペにいくつか参加しています．
+データマイニングに関するコンペにいくつか参加しています．
+
 * "富山県における就職の魅力度向上と定住化促進計画". 第2回和歌山県データ利活用コンペティション
 * "クリック率向上を目指したクエリ内の略語展開による検索補助法". WebDB Forum DBSJ Data Challenge 2018
 
 ## Awards {#awards}
 データ解析コンペでいくつか賞を頂きました．
+
 * "リクルートテクノロジーズ賞". WebDB Forum DBSJ Data Challenge 2018
 * "SAS賞". 第2回和歌山県データ利活用コンペティション
 
@@ -54,7 +59,7 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 * 2019年3月~6月の期間にInstitute Japanにおいてインターンに参加しました．
   * 行政データを用いて，行政と共同でU・Iターンを促進する政策提案を行いました．
 
-* 2020年5月から現在の機関でSMS株式会社においてインターンに参加しています．
+* 2020年5月から現在までSMS株式会社のインターンに参加しています．
   * パフォーマンス予測に関する業務を行いました．
   * 電子カルテの構造化，分析を行いました．
 
