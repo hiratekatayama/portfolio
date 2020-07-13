@@ -5,12 +5,12 @@ url:                ""
 author:             "Toshiyuki Hirakata"
 email:              "hirakata@kde.cs.tsukuba.ac.jp"
 gravatar_hash:      ""
-twitter:            ""
+#twitter:            ""
 email:              "hirakata@kde.cs.tsukuba.ac.jp"
 github:             "hiratekatayama"
-pinterest:          ""
-linkedin:           ""
-facebook:           ""
+#pinterest:          ""
+#linkedin:           ""
+#facebook:           ""
 
 disqus_shortname:   "thinker3197"
 
@@ -49,4 +49,5 @@ nav:
   - name:           "Hobby"
     href:           "#hobby"
 
+sass:
   style:            :compressed
