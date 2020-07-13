@@ -51,5 +51,10 @@ nav:
 
 sass:
   style:            :compressed
+<<<<<<< HEAD
  
 theme: jekyll-theme-cayman
+=======
+
+theme: jekyll-theme-cayman
+>>>>>>> origin
