@@ -50,3 +50,5 @@ nav:
 
 sass:
   style:            :compressed
+
+theme: jekyll-theme-cayman
