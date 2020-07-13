@@ -51,4 +51,4 @@ nav:
 sass:
   style:            :compressed
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
