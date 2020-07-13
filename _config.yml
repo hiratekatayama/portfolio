@@ -19,8 +19,8 @@ disqus_shortname:   "thinker3197"
 #paginate:           5
 #paginate_path:      "/page:num/"
 
-baseurl:            "/portfolio"
-url:                "https://hiratekatayama.github.io"
+baseurl:            ""
+url:                ""
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
