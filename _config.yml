@@ -49,12 +49,4 @@ nav:
   - name:           "Hobby"
     href:           "#hobby"
 
-sass:
   style:            :compressed
-<<<<<<< HEAD
- 
-theme: jekyll-theme-cayman
-=======
-
-theme: jekyll-theme-cayman
->>>>>>> origin
