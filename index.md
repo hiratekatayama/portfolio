@@ -37,6 +37,8 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
   * index
 
 ## Publications {#publications}
+* Toshiyuki Hirakata, Toshiyuki Amagasa,"A Dynamic Load-balancing Method for Distributed RDF Stream Processing Systems", In Proceedings of the 23nd International Conference on Information Integration and Web Intelligence (iiWAS2021), November 29 - December 1, 2021.
+* 平方俊行，天笠俊行．”分散RDFストリーム処理システムにおける複数フィルタリング最適化”．DEIM Forum 2021 A11-2．p.1-7
 * 平方 俊行，楠 和馬，波多野賢治. "クエリログの部分的利用を考慮したグラフの集約演算高速化" 第12回データ工学と情報マネジメントに関するフォーラム. DEIM Forum 2020 C3-4. p.1-5
 * 八島 裕史，平方 俊行，草野 彰吾，笹田 大翔. "統計的因果推論を用いた地方の課題解決の提案". SAS Forum Japan 2019
 
@@ -56,19 +58,19 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 グラフデータベースやRDBMSへの問合せ処理高速化に関心があります．また最近は，グラフデータに対するデータマイニングにも興味があります．
 
 ## Experiences {#experience}
-* 2019年3月~6月の期間に SAS Institute Japan においてインターンに参加いたしました．
+* 2019年3月~6月の期間に SAS Institute Japan においてインターンに参加しました．
   * 行政データを用いて，行政と共同でU・Iターンを促進する政策提案を行いました．
 
 
-* 2019年8月~10月の期間に リクルートテクノロジーズ株式会社においてインターンに参加いたしました．
+* 2019年8月~10月の期間に リクルートテクノロジーズ株式会社においてインターンに参加しました．
   * 推薦システムの機能追加の業務を行いました．
 
 
-* 2020年5月から SMS 株式会社のインターンに参加しています．
+* 2020年5月-12月まで SMS 株式会社のインターンに参加しました．
   * パフォーマンス予測に関する業務を行いました．
   * 電子カルテデータの管理・分析の業務を行いました．
 
-* 2020年9月から2週間 JR 東日本においてインターンに参加いたしました．
+* 2020年9月-10月まで JR 東日本研究開発センターのインターンに参加しました．
   * Suica の研究開発業務を行いました．
 
 
