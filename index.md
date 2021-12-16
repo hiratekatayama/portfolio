@@ -73,6 +73,7 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 * 2020年9月-10月まで JR 東日本研究開発センターのインターンに参加しました．
   * Suica の研究開発業務を行いました．
 
+* 2021年2月-3月まで 防衛省のインターンに参加しました．
 
 
 ## Education {#education}
