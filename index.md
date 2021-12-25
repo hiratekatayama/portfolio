@@ -74,6 +74,8 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
   * Suica の研究開発業務を行いました．
 
 * 2021年2月-3月まで 防衛省のインターンに参加しました．
+* 2021年8月- 株式会社 Reapra のインターンに参加しています．
+  * 投資支援先の実践内容と研究内容をテクノロジーを起点にレポート作成しました．([作業レポート][https://github.com/hiratekatayama/technology/blob/main/%E7%AC%AC1%E7%AB%A0%EF%BC%9A%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC.pdf])
 
 
 ## Education {#education}
