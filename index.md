@@ -75,7 +75,7 @@ Email: hirakata [at] kde.cs.tsukuba.ac.jp
 
 * 2021年2月-3月まで 防衛省のインターンに参加しました．
 * 2021年8月- 株式会社 Reapra のインターンに参加しています．
-  * 投資支援先の実践内容と研究内容をテクノロジーを起点にレポート作成しました．(<a class="text-link" href="https://github.com/hiratekatayama/technology/blob/main/Inovation_and_Technology.pdf">作業レポート</a>)
+  * 投資支援先の実践内容と研究内容をテクノロジーを起点にレポート作成しました．(<a class="text-link" href="https://github.com/hiratekatayama/technology/blob/main/Information_and_Inovation.pdf">作業レポート</a>)
 
 
 ## Education {#education}
