@@ -52,7 +52,7 @@ nav:
 sass:
   style:            :compressed
 
-google_analytics: UA-G-B24F6V1QW9
+google_analytics: G-B24F6V1QW9
 gems:
   - jekyll-sitemap
 
