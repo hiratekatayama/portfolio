@@ -9,6 +9,16 @@ layout: default
     </nav>
 </header>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B24F6V1QW9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B24F6V1QW9');
+</script>
+
 ## About Me {#aboutme}
 筑波大学大学院理工情報生命学術院システム情報学研究群理工情報学位プログラム
 <a class="text-link" href="http://kde.cs.tsukuba.ac.jp">北川・天笠データ工学研究室</a>
