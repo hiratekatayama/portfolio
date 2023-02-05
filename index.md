@@ -7,7 +7,6 @@ layout: default
         {% for nav in site.nav %}
 	<a class="text-link" href="{{ nav.href }}">{{ nav.name }}<span> &nbsp;/&nbsp; </span></a> {% endfor %}
     </nav>
-</header>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B24F6V1QW9"></script>
@@ -18,6 +17,8 @@ layout: default
 
   gtag('config', 'G-B24F6V1QW9');
 </script>
+
+</header>
 
 ## About Me {#aboutme}
 筑波大学大学院理工情報生命学術院システム情報学研究群理工情報学位プログラム
