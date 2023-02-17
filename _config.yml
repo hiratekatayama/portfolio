@@ -53,6 +53,6 @@ sass:
   style:            :compressed
 
 google_analytics: G-B24F6V1QW9
-gems:
+plugins:
   - jekyll-sitemap
 
